@@ -71,3 +71,5 @@ class TabCard {
 */
 let tabs = document.querySelectorAll('.tab');
 tabs.forEach((tab) => new TabLink(tab));
+
+// MVP COMPLETE!!
